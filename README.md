@@ -5,3 +5,8 @@ Simple pendulum has studied for long period of time and in real world experiment
 
 [1] Rackauckas et. al, Univeral Differential Equatins for Scientific Machine Learning. (https://arxiv.org/abs/2001.04385)
 
+ ### Learned Friction(F($\theta$, $\omega$)) as a Function of Time(t):
+ 
+ <p align="center">
+  <img src="ann64_Loss_theta_fric_05.png" width="700" height="430" />
+ </p>
