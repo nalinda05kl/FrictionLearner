@@ -5,6 +5,8 @@ Simple pendulum has studied for long period of time and in real world experiment
 
 [1] Rackauckas et. al, Univeral Differential Equatins for Scientific Machine Learning. (https://arxiv.org/abs/2001.04385)
 
+This work is part of the paper "Discovering Nonlinear Dynamics Through Scientific Machine Learning" whcih is accepted for the Intelligence Systems Conference (IntelliSys-2021), Amsterdam, Netherlands, 2021. Conference link can be found [here](https://saiconference.com/IntelliSys).
+
  ### Learned friction(F(&theta;, &omega;)) as a function of time(t) using the simulated data:
  
  <p align="center">
